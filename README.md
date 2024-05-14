@@ -8,3 +8,5 @@ Ferramenta SEO
 https://moz.com/free-seo-tools
 
 https://ahrefs.com/pt/free-seo-tools
+
+https://tinypng.com/
